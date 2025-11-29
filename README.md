@@ -73,8 +73,10 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## ✉️ Contato
 
-Carlos Rangel - [GitHub](https://github.com/CarlosRangel-Dev)
+Carlos Rangel  
+[GitHub](https://github.com/CarlosRangel-Dev)  
+[Portfólio Profissional](https://rangelwebsolutions.com.br/)
 
 ---
 
-Desenvolvido com ❤️ por Carlos Rangel
+Desenvolvido com ❤️ por [Carlos Rangel](https://rangelwebsolutions.com.br/)
